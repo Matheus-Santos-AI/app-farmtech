@@ -6,4 +6,7 @@ matplotlib
 plotly
 requests
 scikit-learn
+
+XlsxWriter
+
 oracledb
