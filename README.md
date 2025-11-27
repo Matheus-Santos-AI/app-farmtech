@@ -6,7 +6,7 @@
 
 <br>
 
-# Curso Inteligencia Articicial - Fase 3 - Cap 1 - Etapas de uma Máquina Agrícola
+# Curso Inteligencia Articicial - Fase 4 - Cap 1 - Memorizando e Aprendendo com os Dados da Farm Tech Solutions
 
 
 
@@ -43,5 +43,6 @@ Utilize o menu a esqueda para navegar entre as paginas
 
 
     *
+
 
 
