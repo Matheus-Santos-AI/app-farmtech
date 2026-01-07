@@ -4,7 +4,7 @@ import pandas as pd
 '''CONEXÃO COM BANCO DE DADOS'''
 try:
     # Efetua a conexão com o Usuário no servidor
-    conn = oracledb.connect(user='rm566901', password="160393", dsn='oracle.fiap.com.br:1521/ORCL')
+    conn = oracledb.connect(user='----', password="----", dsn='oracle.fiap.com.br:1521/ORCL')
     # Cria as instruções para cada módulo
 
     inst_consulta = conn.cursor()
@@ -47,6 +47,7 @@ def maiores_produções():
     df_ordenado = df.sort_values(by ='PRODUTIVIDADE', ascending=False)
 
     return df_ordenado.head(100)
+
 
 
 
